@@ -1,7 +1,9 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
+Added Character Walking Animation
+Added Character Jump Animation
+Added Character Idle Animation
 
 ## References
 
@@ -12,4 +14,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Brenden Wood
